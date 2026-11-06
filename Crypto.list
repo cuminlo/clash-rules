@@ -134,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,particle.network
   - DOMAIN-SUFFIX,pendle.finance
   - DOMAIN-SUFFIX,publicnode.com
+  - DOMAIN-SUFFIX,relay.link
   - DOMAIN-SUFFIX,revapay.ai
   - DOMAIN-SUFFIX,reveel.id
   - DOMAIN-SUFFIX,sei.io
