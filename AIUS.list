@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,geminicli.com 
   - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,meta.com
