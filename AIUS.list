@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,geminicli.com 
+  - DOMAIN-SUFFIX,muse.ai
