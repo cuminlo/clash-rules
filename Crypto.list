@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,avedex.live
   - DOMAIN-SUFFIX,aptoslabs.com
   - DOMAIN-SUFFIX,apollox.finance
+  - DOMAIN-SUFFIX,base.org
   - DOMAIN-SUFFIX,basescan.org
   - DOMAIN-SUFFIX,blockscout.com
   - DOMAIN-SUFFIX,bitverse.zone
