@@ -133,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,gateimage.com
   - DOMAIN-SUFFIX,gmgn.io
   - DOMAIN-SUFFIX,gmgn.ai
+  - DOMAIN-SUFFIX,pinax.network
   - DOMAIN-SUFFIX,pump.fun
   - DOMAIN-SUFFIX,particle.network
   - DOMAIN-SUFFIX,pendle.finance
